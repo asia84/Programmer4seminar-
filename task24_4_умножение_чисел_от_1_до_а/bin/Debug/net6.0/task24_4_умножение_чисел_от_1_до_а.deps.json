@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task24_4_умножение_чисел_от_1_до_а/1.0.0": {
+        "runtime": {
+          "task24_4_умножение_чисел_от_1_до_а.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task24_4_умножение_чисел_от_1_до_а/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
