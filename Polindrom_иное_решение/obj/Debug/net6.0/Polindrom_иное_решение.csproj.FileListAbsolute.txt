@@ -1,0 +1,15 @@
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\bin\Debug\net6.0\Polindrom_иное_решение.exe
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\bin\Debug\net6.0\Polindrom_иное_решение.deps.json
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\bin\Debug\net6.0\Polindrom_иное_решение.runtimeconfig.json
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\bin\Debug\net6.0\Polindrom_иное_решение.dll
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\bin\Debug\net6.0\Polindrom_иное_решение.pdb
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.csproj.AssemblyReference.cache
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.AssemblyInfoInputs.cache
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.AssemblyInfo.cs
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.csproj.CoreCompileInputs.cache
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.dll
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\refint\Polindrom_иное_решение.dll
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.pdb
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\Polindrom_иное_решение.genruntimeconfig.cache
+E:\Программирование\Прогр.сем.4\Polindrom_иное_решение\obj\Debug\net6.0\ref\Polindrom_иное_решение.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Polindrom_иное_решение/1.0.0": {
+        "runtime": {
+          "Polindrom_иное_решение.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polindrom_иное_решение/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
